@@ -1,0 +1,25 @@
+﻿  Building Custom Rule C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/source/Lib/EncoderLib/CMakeLists.txt
+  AQp.cpp
+  BinEncoder.cpp
+  CABACWriter.cpp
+  EncAdaptiveLoopFilter.cpp
+  EncCu.cpp
+  EncGOP.cpp
+  EncHRD.cpp
+  EncLib.cpp
+  EncLibCommon.cpp
+  EncModeCtrl.cpp
+  EncReshape.cpp
+  EncSampleAdaptiveOffset.cpp
+  EncSlice.cpp
+  EncTemporalFilter.cpp
+  InterSearch.cpp
+  IntraSearch.cpp
+  NALwrite.cpp
+  RateCtrl.cpp
+  SEIEncoder.cpp
+  SEIFilmGrainAnalyzer.cpp
+  SEIwrite.cpp
+  VLCWriter.cpp
+  WeightPredAnalysis.cpp
+  EncoderLib.vcxproj -> C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\lib\vs17\msvc-19.44\x86_64\release\EncoderLib.lib
