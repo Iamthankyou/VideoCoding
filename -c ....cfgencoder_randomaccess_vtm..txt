@@ -17,3 +17,7 @@ EncoderApp.exe -c C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\cfg\encoder_
 vvencapp.exe -i foreman_cif.yuv -s 352x288 -o output.bin
 
 vvdecapp.exe -b output.bin -o decoded.yuv
+
+./TAppEncoder.exe -c "C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/cfg/encoder_intra_vtm.cfg" -c "C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/cfg/per-sequence/BasketballDrive.cfg" -q 37 -f 33 2>> log.txt
+
+./TAppEncoder.exe -c "C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/cfg/encoder_randomaccess_vtm.cfg" -c "C:/Users/LQ Duy/Documents/Project/VideoCoding/VVCSoftware_VTM/cfg/per-sequence/BasketballDrive.cfg" -q 37 -f 33 2>> log.txt

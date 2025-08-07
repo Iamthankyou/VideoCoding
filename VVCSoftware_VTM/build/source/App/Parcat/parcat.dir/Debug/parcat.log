@@ -1,6 +1,1 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2189,5): warning MSB9008: The referenced project C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\build\ZERO_CHECK.vcxproj does not exist.
-  Building Custom Rule C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/source/App/Parcat/CMakeLists.txt
-  CMake is re-running because C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM/build/source/App/Parcat/CMakeFiles/generate.stamp dependency file is missing.
-CUSTOMBUILD : CMake error : The source directory "C:/Users/LQ Duy/Documents/Project/VVCSoftware_VTM" does not appear to contain CMakeLists.txt.
-  Specify --help for usage, or press the help button on the CMake GUI.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): error MSB8066: Custom build for 'C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\source\App\Parcat\CMakeLists.txt' exited with code 1.
+﻿  parcat.vcxproj -> C:\Users\LQ Duy\Documents\Project\VVCSoftware_VTM\bin\vs17\msvc-19.44\x86_64\debug\parcat.exe
